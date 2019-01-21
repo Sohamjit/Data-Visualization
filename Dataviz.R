@@ -1,7 +1,7 @@
 # This project was done from data visualization perspective only. 
 # As the purpose of the code was not to do any modelling, no efforts were made on cleaning or replacing missing data
 
-# Group O-1-3 Assignment No.1
+
 # Members:
 # - Celine Khoury
 # - Elias Azzi
